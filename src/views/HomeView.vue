@@ -36,46 +36,42 @@
           <div class="card-group">
             <div class="card border rounded mx-1">
               <img
-                src="https://picsum.photos/300/300/?image=41"
+                src="../assets/galeri/fasilitas/Fasilitas Ruang Kelas.jpg"
                 class="card-img-top"
                 alt="Image"
               />
               <div class="card-body">
-                <h5 class="card-title">PENDIDIK BERKOMPETEN</h5>
+                <h5 class="card-title">Ruang Kelas</h5>
                 <p class="card-text">
-                  Tenaga pendidik mengajar sesuai dengan bidang saat kuliah.
-                  Sehingga berkompeten dan mampu mentransfer ilmu dengan baik.
+                  Terdapat ruang kelas yang bersih, nyaman dan aman sehingga dapat mendukung terciptanya suasana belajar mengajar yang kondusif. 
                 </p>
               </div>
             </div>
 
             <div class="card border rounded mx-1">
               <img
-                src="https://picsum.photos/300/300/?image=41"
+                src="../assets/galeri/fasilitas/Fasilitas Parkir.jpg"
                 class="card-img-top"
                 alt="Image"
               />
               <div class="card-body">
-                <h5 class="card-title">BEASISWA PRESTASI</h5>
+                <h5 class="card-title">Tempat Parkir</h5>
                 <p class="card-text">
-                  Tidak perlu khawatir, bagi siswa-siswi yang berprestasi akan
-                  mendapatkan beasiswa khusus dari SD Negeri 2 Tawangrejo.
+                  Area parkir yang luas dan tertata rapi dengan mengedepankan keamanan serta kenyamanan akan membuat guru, staff, murid yang parkir tidak merasa khawatir terhadap kendaraan yang diparkir. 
                 </p>
               </div>
             </div>
 
             <div class="card border rounded mx-1">
               <img
-                src="../assets/galeri/fasilitas/fasilitas gedung sekolah milik sendiri.jpg"
+                src="../assets/galeri/fasilitas/Fasilitas Gedung Sendiri.jpg"
                 class="card-img-top"
                 alt="Image"
               />
               <div class="card-body">
-                <h5 class="card-title">FASILITAS LENGKAP</h5>
+                <h5 class="card-title">Gedung Sekolah</h5>
                 <p class="card-text">
-                  Tersedia sarana lapangan olahraga dan praktek yang cukup
-                  lengkap, termasuk akses wifi gratis untuk menunjang
-                  pembelajaran siswa.
+                  SD Negeri 2 Tawangrejo memiliki gedung sendiri dengan lahan yang luas, sehingga membuat kegiatan belajar dan mengajar nyaman.
                 </p>
               </div>
             </div>
@@ -89,46 +85,41 @@
           <div class="card-group">
             <div class="card border rounded mx-1">
               <img
-                src="../assets/galeri/ekstrakulikuler/ekstra tari.jpg"
+                src="../assets/galeri/ekstrakulikuler/Ekstra Murotal.jpg"
                 class="card-img-top"
                 alt="Image"
               />
               <div class="card-body">
-                <h5 class="card-title">Ekstrakulikuler 1</h5>
+                <h5 class="card-title">Ekstrakulikuler Murotal</h5>
                 <p class="card-text">
-                  Tenaga pendidik mengajar sesuai dengan bidang saat kuliah.
-                  Sehingga berkompeten dan mampu mentransfer ilmu dengan baik.
+                  Ekstrakurikuler Murottal bertujuan meningkatkan kecintaan dan kecakapan siswa dalam membaca Al-Qur'an dengan merdu dan penuh makna. Siswa diajak berlatih teknik membaca dengan baik dan belajar cara melantunkan ayat-ayat suci Al-Qur'an dengan penuh kekhusyukan dan ketelitian.                </p>
+              </div>
+            </div>
+
+            <div class="card border rounded mx-1">
+              <img
+                src="../assets/galeri/ekstrakulikuler/Esktra Drumband.jpg"
+                class="card-img-top"
+                alt="Image"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Ekstrakulikuler Drumband</h5>
+                <p class="card-text">
+                  Drumband adalah ekstrakulikuler yang berfokus pada musik drum dan perkusi. Anggotanya biasanya terdiri dari siswa yang memiliki minat dan kemampuan bermain drum dan perkusi, serta memiliki tujuan untuk meningkatkan keterampilan dan kemampuan bermain musik secara kolektif.
                 </p>
               </div>
             </div>
 
             <div class="card border rounded mx-1">
               <img
-                src="https://picsum.photos/300/300/?image=41"
+                src="../assets/galeri/ekstrakulikuler/Ekstra Tari.jpg"
                 class="card-img-top"
                 alt="Image"
               />
               <div class="card-body">
-                <h5 class="card-title">Ekstrakulikuler 2</h5>
+                <h5 class="card-title">Ekstrakulikuler Tari</h5>
                 <p class="card-text">
-                  Tidak perlu khawatir, bagi siswa-siswi yang berprestasi akan
-                  mendapatkan beasiswa khusus dari SD Negeri 2 Tawangrejo.
-                </p>
-              </div>
-            </div>
-
-            <div class="card border rounded mx-1">
-              <img
-                src="https://picsum.photos/300/300/?image=41"
-                class="card-img-top"
-                alt="Image"
-              />
-              <div class="card-body">
-                <h5 class="card-title">Ekstrakulikuler 3</h5>
-                <p class="card-text">
-                  Tersedia sarana lapangan olahraga dan praktek yang cukup
-                  lengkap, termasuk akses wifi gratis untuk menunjang
-                  pembelajaran siswa.
+                  Ekstrakulikuler Seni Tari adalah kegiatan yang dilakukan di luar jam pelajaran sekolah untuk meningkatkan kemampuan dan keterampilan siswa dalam seni tari. Dalam kegiatan ini, siswa dapat belajar dan berlatih berbagai jenis tarian, seperti tarian tradisional, modern, dan kontemporer, serta memahami berbagai unsur tari seperti gerakan, pose, dan musik.
                 </p>
               </div>
             </div>
@@ -145,7 +136,7 @@
               <div class="col">
                 <div class="card border rounded">
                   <img
-                    src="../assets/galeri/galeri hari kartini tukar kado.jpg"
+                    src="../assets/galeri/Galeri Upacara Kartini.jpg"
                     class="card-img-top"
                     alt="Image"
                   />
@@ -156,7 +147,7 @@
               <div class="col">
                 <div class="card border rounded">
                   <img
-                    src="../assets/galeri/galeri masak2.jpg"
+                    src="../assets/galeri/Galeri Tukar Kado.jpg"
                     class="card-img-top"
                     alt="Image"
                   />
@@ -167,7 +158,7 @@
               <div class="col">
                 <div class="card border rounded">
                   <img
-                    src="../assets/galeri/galeri persiapan sholat dhuha.jpg"
+                    src="../assets/galeri/Galeri Apel.jpeg"
                     class="card-img-top"
                     alt="Image"
                   />
@@ -178,7 +169,7 @@
               <div class="col">
                 <div class="card border rounded">
                   <img
-                    src="../assets/galeri/galeri senam.jpg"
+                    src="../assets/galeri/Galeri Jumat Berkah.jpg"
                     class="card-img-top"
                     alt="Image"
                   />
@@ -189,7 +180,7 @@
               <div class="col">
                 <div class="card border rounded">
                   <img
-                    src="../assets/galeri/galeri upacara hari kartini.jpg"
+                    src="../assets/galeri/Galeri JumatSehat.jpg"
                     class="card-img-top"
                     alt="Image"
                   />
@@ -200,7 +191,40 @@
               <div class="col">
                 <div class="card border rounded">
                   <img
-                    src="https://picsum.photos/300/300/?image=46"
+                    src="../assets/galeri/Galeri Kasti.jpg"
+                    class="card-img-top"
+                    alt="Image"
+                  />
+                </div>
+              </div>
+
+               <!-- Gambar 7 -->
+               <div class="col">
+                <div class="card border rounded">
+                  <img
+                    src="../assets/galeri/Galeri Masak.jpg"
+                    class="card-img-top"
+                    alt="Image"
+                  />
+                </div>
+              </div>
+
+               <!-- Gambar 8 -->
+               <div class="col">
+                <div class="card border rounded">
+                  <img
+                    src="../assets/galeri/Galeri Menanam.jpg"
+                    class="card-img-top"
+                    alt="Image"
+                  />
+                </div>
+              </div>
+
+               <!-- Gambar 9 -->
+               <div class="col">
+                <div class="card border rounded">
+                  <img
+                    src="../assets/galeri/Galeri Wudhu.jpg"
                     class="card-img-top"
                     alt="Image"
                   />

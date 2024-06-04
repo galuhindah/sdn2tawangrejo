@@ -10,13 +10,13 @@
         </div>
         <div class="shadow rounded mt-4">
           <div class="py-4 px-5 text-center">
-            <p>
+            <h5>
               Silahkan Datang Langsung Ke SD Negeri 2 Tawangrejo.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Dusun I, Tawangrejo, Kec. Bayat, Kabupaten Klaten, Jawa Tengah
-            </p>
-            <p>Hari Senin s/d Sabtu</p>
+            </h5>
+            <h5>Hari Senin s/d Sabtu</h5>
           </div>
         </div>
       </div>
